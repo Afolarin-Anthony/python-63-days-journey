@@ -1,5 +1,7 @@
 # PYTHON LEARNING
 # DAY 1: Python Setup and Running my first program
+### DATE: 10th October 2026
+### STATUS: DONE 
 
 ## Concept: Code's connection to the interpreter and Operating System
 ##          The module that brings the concept to life is the sys module
@@ -10,5 +12,6 @@
 - sys.exit(code) ----> Used to end the program graciousl. 0, if there were no errors, 1, if there were any.
 - sys.stderr ----> To assign errors
 - sys.path -----> directories, paths python uses to search for imports
+
 
 
