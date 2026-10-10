@@ -27,35 +27,37 @@ Talking to the interpreter and the Operating system
 
 ## Practice Completed
 
-### Exercise 1: 
+### Exercise 1: [exercise_1.py]
 
 **Problem:**
 
-Describe what the program was supposed to do.
+Print out certain information about the platform and python version.
 
 **Approach:**
 
-Explain how you solved the problem.
-
+I used the print function on sys.version and sys.platform
 **Result:**
 
-Describe the final result.
+Successfully printed it out.
 
-### Exercise 2: [Exercise name]
+### Exercise 2: [exercise_2.py]
 
 **Problem:**
 
-Describe the exercise.
+Writing a python script that counts the number of arguments it receives
 
 **Approach:**
 
-Explain your solution.
+Used the len() counting function
 
 **Result:**
 
-Describe the final result.
+Returned the number of arguments in numeric form.
 
 ## Code Example
 
-```python
-# Add one useful example from today's lesson
+import sys
+print("Number of arguments:", len(sys.argv))
+sys.exit(0) # 0 means success
+
+Learnt about enumerate(), stderr.
