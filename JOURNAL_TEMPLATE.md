@@ -1,34 +1,33 @@
-# Day [Topic]
+# Day 1
 
-**Date:** YYYY-MM-DD  
-**Phase:** [Phase name]  
-**Status:** Completed / In Progress
+**Date:** 2026-10-10  
+**Phase:** Foundations
+**Status:** In Progress
 
 ## Learning Objectives
 
-By the end of this session, I wanted to:
+By the end of this phase, I want to:
 
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+- Understand python modules and how to use them.
+- Build discipline in reading, writing code
+- Understand programming generally
 
 ## Module of the Day
 
-**Module:** `[module name]`
+**Module:** `sys`
 
 **Purpose:**
-
-Explain briefly what the module does and when it is useful.
+Talking to the interpreter and the Operating system
 
 ## Concepts Learned
 
-- [Concept 1]
-- [Concept 2]
-- [Concept 3]
+- A form of error handling
+- OS enumeration
+
 
 ## Practice Completed
 
-### Exercise 1: [Exercise name]
+### Exercise 1: 
 
 **Problem:**
 
