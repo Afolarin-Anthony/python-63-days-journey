@@ -59,7 +59,7 @@ For each day, I will document:
 
 **Current day:** Day 01  
 **Current topic:** Python Setup and the `sys` module  
-**Status:** Ready to begin
+**Status:** In Progress
 
 ## Author
 
