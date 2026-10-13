@@ -5,5 +5,5 @@
 
 ## What I learnt
 - Some parts of the sys modules.
-- That arguments can be ran with python scripts.
+- That arguments can be ran with python scripts in the repl or terminal.
 - Getting details about the Operating system platform, python version before typing code.
