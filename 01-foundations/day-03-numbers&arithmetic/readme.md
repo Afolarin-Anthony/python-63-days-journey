@@ -7,10 +7,10 @@
 ## The module that brings the concept to life is the math module
 
 ### Examples
-math.isclose(a,b) -----> the correct way to compare floats
-math.isqrt(n) -----> integer square root, no float error
-math.hypot(a,b) ----> distance without overflow
-math.tau() ----> The circle constant 2π.
+- math.isclose(a,b) -----> the correct way to compare floats
+- math.isqrt(n) -----> integer square root, no float error
+- math.hypot(a,b) ----> distance without overflow
+- math.tau() ----> The circle constant 2π.
 
  Any time I need powers and roots (sqrt, isqrt, exp, log), rounding (floor, ceil,
 trunc), whole‑number math (factorial, gcd, lcm, comb), trigonometry (sin, cos, radians), or loat
