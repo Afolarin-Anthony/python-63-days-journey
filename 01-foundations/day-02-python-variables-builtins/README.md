@@ -9,7 +9,7 @@
 ### Builtins examples
 ### Builtin does need to be imported for it to be used
 
-## What I learn
+## What I learnt
 - repr() ---> Returns an unambiguous string representation of an object.
   
 - isinstance() ---> Gets the exact class name as a string.
