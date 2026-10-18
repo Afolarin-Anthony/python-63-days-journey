@@ -6,7 +6,7 @@
 ## Concept: Slice, split, and transform text luently, then meet the string module for character sets and safe templates
 ## The module that brings the concept to life is the "string" module.
 
-### Examples
+## Examples
 
 
 ## What I learnt
