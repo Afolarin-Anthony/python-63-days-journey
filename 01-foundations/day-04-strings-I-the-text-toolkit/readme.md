@@ -7,6 +7,21 @@
 ## The module that brings the concept to life is the "string" module.
 
 ## Examples
+- len() ---> Counts and returns the number of characters in a string. 
+- .upper() ---> Converts the strings to uppercase.
+- .lower() ---> Converts the strings to lowercase.
+- .strip() ---> Removes extra spaces.
+- .replace(old word, new word) ---> Replaces a word with another.
+- .find() ---> Finds a text
+- .split() ---> Converts text into list
+- .join() ---> Convert a list into a string
+- .isalpha() ---> Checking if contents of a string is alphabetical
+- .isdigit() ---> Checks if it contents of a string is numeric
+- .isalnum() ---> Checks if the content contains both numbers and alphabets.
+- print(string.ascii_lowercase)
+- print(string.digits)
+- print(string.ascii_uppercase)
+- print(string.punctuation)
 
 
 ## What I learnt
