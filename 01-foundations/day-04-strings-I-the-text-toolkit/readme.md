@@ -37,7 +37,19 @@ P  y  t  h  o  n
  
 
 ## More researched
+- Strings are immutable (cannot be modified directly)
 
+- Indexing accesses one character
+
+- Slicing extracts portions of text
+
+- split() converts strings to lists
+
+- join() converts lists to strings
+
+- String methods help transform text
+
+- The string module provides useful character sets and templates
 
 
 
