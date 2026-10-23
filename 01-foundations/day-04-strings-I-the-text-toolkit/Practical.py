@@ -11,3 +11,12 @@ print("Lower:  ", text.lower())
 print("Words:  ", text.split())
 print("Reversed: ", text[::-1])
 print("AlphaNumeric: ", text.isalpha())
+
+
+# Length:  12
+# No Space:  Welcome home
+# Upper:   WELCOME HOME
+# Lower:   welcome home
+# Words:   ['Welcome', 'home']
+# Reversed:  emoh emocleW
+# AlphaNumeric:  False
