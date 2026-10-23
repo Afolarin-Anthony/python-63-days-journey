@@ -10,6 +10,14 @@
 
 
 ## What I learnt
+- Strings can be indexed forward and backward. E.g 
+P  y  t  h  o  n   
+0  1  2  3  4  5
+-6 -5 -4 -3 -2 -1
+-----> word = "python"  ----> word[-1], word[5] are both "n".
+
+- Strings can be sliced and reversed.
+
 
  
 
