@@ -22,6 +22,7 @@
 - print(string.digits)
 - print(string.ascii_uppercase)
 - print(string.punctuation)
+- .safe_substitute() ---> Replaces template text and integer placeholders with new text
 
 
 ## What I learnt
