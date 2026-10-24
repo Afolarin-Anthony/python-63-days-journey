@@ -1,7 +1,7 @@
 # PYTHON LEARNING
 # DAY 5: Strings II : Formatting Mastery
 ### DATE: 23rd October 2026
-### STATUS: Not started
+### STATUS: In progress
 
 ## Concept: Become fluent with f‑strings and format specifiers, then shape output with textwrap for reports and CLIs.
 
