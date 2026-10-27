@@ -16,6 +16,13 @@
 - (f"{variable_name:^20}) ----> Center aligns the text value.
 - (f"{variable_name:04d}) ----> Pads the number with an amount of leading zeros.
 
+## The textwrap module
+- textwrap.wrap(text, width) — list of wrapped lines
+- textwrap.fill(text, width) — wrapped lines joined with newlines
+- textwrap.shorten(text, width) — truncate with a placeholder
+- textwrap.dedent(block) — strip shared leading whitespace
+- textwrap.indent(text, prefix) — prefix every line
+
 
 ## What I learnt
 - We can programm output in a neatly manner and so much as drawing tables, grids.
