@@ -22,4 +22,3 @@
  
 
 ## More researched
-- There are older formatting methods used before f strings and they are still being used for specific jobs like templating by python programmers. E.g Percent formatting (%) and the .format() method
