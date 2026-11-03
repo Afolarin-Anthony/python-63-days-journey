@@ -1,63 +1,12 @@
-# Day 1
+# Journal
+## My journey as of now
 
-**Date:** 2026-10-10  
-**Phase:** Foundations
-**Status:** In Progress
+So far learning python has been a blast, especially learning a lot of methods and dealing with modules in ways i never thought. Python programming has been wonderful.
 
-## Learning Objectives
+That being said, I know that there are some rules of programming my checklist does not cover although I try to cover that in my "more research" for each day. I aim to do little research for each day for concepts I might not understand fully and also checking out potholes I should avoid.
 
-By the end of this phase, I want to:
+And also, i have not been able to properly practice python for consecutive days. This is due to constant scheduling conflict and also certain unforeseen circumstances but nevertheless we push.
 
-- Understand python modules and how to use them.
-- Build discipline in reading, writing code
-- Understand programming generally
+I hope to see where I get to by the end of the year.
 
-## Module of the Day
-
-**Module:** `sys`
-
-**Purpose:**
-Talking to the interpreter and the Operating system
-
-## Concepts Learned
-
-- A form of error handling
-- OS enumeration
-
-
-## Practice Completed
-
-### Exercise 1: [exercise_1.py]
-
-**Problem:**
-
-Print out certain information about the platform and python version.
-
-**Approach:**
-
-I used the print function on sys.version and sys.platform
-**Result:**
-
-Successfully printed it out.
-
-### Exercise 2: [exercise_2.py]
-
-**Problem:**
-
-Writing a python script that counts the number of arguments it receives
-
-**Approach:**
-
-Used the len() counting function
-
-**Result:**
-
-Returned the number of arguments in numeric form.
-
-## Code Example
-
-import sys
-print("Number of arguments:", len(sys.argv))
-sys.exit(0) # 0 means success
-
-Learnt about enumerate(), stderr.
+Thank you.
