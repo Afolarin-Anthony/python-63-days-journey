@@ -1,7 +1,7 @@
 # PYTHON LEARNING
 # DAY 6: Lists & List Methods
 ### DATE: 30th October 2026
-### STATUS: In Progress
+### STATUS: Completed
 
 ## Concept: Mastering Python’s most‑used container, then turn lists into insights with the statistics module
 ## The module that brings the concept to life is the "Statistics" module.
